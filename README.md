@@ -4,7 +4,7 @@ A simple feedforward neural network built with TensorFlow/Keras to classify clot
 
 ## Overview
 
-This project trains a fully-connected (dense) neural network to recognize 10 categories of clothing items — such as t-shirts, trousers, and sneakers — from 28x28 grayscale images. It's a foundational deep learning exercise demonstrating the end-to-end workflow of loading data, building a model, training it, and generating predictions.
+This project trains a fully-connected (dense) neural network to recognize 10 categories of clothing items  such as t-shirts, trousers, and sneakers  from 28x28 grayscale images. It's a foundational deep learning exercise demonstrating the end-to-end workflow of loading data, building a model, training it, and generating predictions.
 
 ## Dataset
 
